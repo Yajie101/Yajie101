@@ -23,4 +23,3 @@ George Washington University
 
 ## Contact
 LinkedIn:www.linkedin.com/in/li-yajie-901514335
-Email:yajie.li@gwmail.gwu.edu
