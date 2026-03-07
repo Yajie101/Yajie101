@@ -1,9 +1,3 @@
-# Hi, I'm Yajie Li 👋
-
-MS in Biostatistics
-Milken Institute School of Public Health  
-George Washington University  
-
 ## Research Interests
 - Survival Analysis
 - Machine Learning in Healthcare
@@ -20,6 +14,3 @@ George Washington University
 - R: ggplot2, Shiny dashboards
 - Tableau
 - Microsoft Power BI
-
-## Contact
-LinkedIn:www.linkedin.com/in/li-yajie-901514335
