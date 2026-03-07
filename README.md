@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yajie Li 👋
 
-<!--
-**Yajie101/Yajie101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Biostatistics
+Milken Institute School of Public Health  
+George Washington University  
 
-Here are some ideas to get you started:
+## Research Interests
+- Survival Analysis
+- Machine Learning in Healthcare
+- Causal Inference
+- Clinical Data Analysis
+- Clinical Trail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming
+- R
+- Python
+- SAS
+  
+## Visualization
+- R ggplot, Rshiny
+- Tableau
+- PowerBI
+
+## Contact
+LinkedIn:www.linkedin.com/in/li-yajie-901514335
+Email:yajie.li@gwmail.gwu.edu
