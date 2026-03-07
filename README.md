@@ -16,10 +16,10 @@ George Washington University
 - Python
 - SAS
   
-## Visualization
-- R ggplot, Rshiny
+## Data Visualization
+- R: ggplot2, Shiny dashboards
 - Tableau
-- PowerBI
+- Microsoft Power BI
 
 ## Contact
 LinkedIn:www.linkedin.com/in/li-yajie-901514335
