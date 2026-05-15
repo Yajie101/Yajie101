@@ -3,7 +3,7 @@
 - Machine Learning in Healthcare
 - Causal Inference
 - Clinical Data Analysis
-- Clinical Trail
+- Clinical Trial
 
 ## Programming
 - R
